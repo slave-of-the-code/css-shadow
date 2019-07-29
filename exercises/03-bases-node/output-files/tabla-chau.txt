@@ -1,0 +1,12 @@
+
+Tabla del :  chau
+chau x 1 = NaN
+chau x 2 = NaN
+chau x 3 = NaN
+chau x 4 = NaN
+chau x 5 = NaN
+chau x 6 = NaN
+chau x 7 = NaN
+chau x 8 = NaN
+chau x 9 = NaN
+chau x 10 = NaN

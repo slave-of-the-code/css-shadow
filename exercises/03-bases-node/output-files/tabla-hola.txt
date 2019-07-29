@@ -1,0 +1,12 @@
+
+Tabla del :  hola
+hola x 1 = NaN
+hola x 2 = NaN
+hola x 3 = NaN
+hola x 4 = NaN
+hola x 5 = NaN
+hola x 6 = NaN
+hola x 7 = NaN
+hola x 8 = NaN
+hola x 9 = NaN
+hola x 10 = NaN
