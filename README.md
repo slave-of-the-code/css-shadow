@@ -1,2 +1,2 @@
 # udemy-node
-Repo related to course Node of udemy.com
+Repository related to the course of NodeJs at udemy.com
