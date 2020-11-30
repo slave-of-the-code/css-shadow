@@ -1,6 +1,6 @@
-## CSS
+## CSS - Shadow
 
-text with relieve and shadow
+text with relieve and shadow using just CSS code
 
 ## published
 
